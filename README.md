@@ -23,4 +23,4 @@ After that you can run it by command.
 
 ### Screenshots ...
 
-![This is an image](./screenshots/Creating vuejs2 npm project sfc.png)
+![This is an image](/screenshots/Creating vuejs2 npm project sfc.png)
