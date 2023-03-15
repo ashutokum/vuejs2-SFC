@@ -19,8 +19,8 @@ Open terminal and type ```npm install```.
 Next few mintue it will download all dependencies.
 
 After that you can run it by command.
-   `#ffaacc npm run start`
+   `npm run start`
 
 ### Screenshots ...
 
-![This is an image](/screenshots/Creating vuejs2 npm project sfc.png)
+![This is an image](https://github.com/astokum/vuejs2-SFC/blob/main/screenshots/Creating%20vuejs2%20npm%20project%20sfc.png)
