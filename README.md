@@ -1,4 +1,4 @@
-# vuejs2-SFC
+# vuejs2-SFC-starter 
 Easy to create vuejs npm project with SFC (Single File Component) enabled - Bundler Webpack
 
 Hi, I am Ashutosh Kumar.
